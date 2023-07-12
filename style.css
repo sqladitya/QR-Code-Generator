@@ -86,6 +86,21 @@ body{
 
 }
 
+.advancedqr {
+    width: 100%;
+    color: #fff;
+    text-align: center;
+    padding: 15px 0;
+    background: #262626;
+    font-weight: 300;
+    margin-bottom: 20px;
+    bottom: 0;
+}
+
+.advancedqr i {
+    color: #ff004f;
+}
+
 .copyright {
     width: 100%;
     color: #fff;
